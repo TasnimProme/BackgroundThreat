@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352431723036",
+    "firebase_url": "https://backgroundthreat.firebaseio.com",
+    "project_id": "backgroundthreat",
+    "storage_bucket": "backgroundthreat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352431723036:android:b68772d7c1867b141745d9",
+        "android_client_info": {
+          "package_name": "com.askme.backgroundthreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352431723036-legt8afe8qttlfoeoq8c63fher77t2ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGATlw1CG3BPXszpdpfwNe06Z8Rnxt4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352431723036-legt8afe8qttlfoeoq8c63fher77t2ch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
